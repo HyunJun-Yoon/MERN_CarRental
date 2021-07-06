@@ -25,3 +25,5 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+
+Nest.js, Typescript, Apollo Client, MySQL, Tatilwind, GraphQL, Redux toolkit, reselect, useSelector
