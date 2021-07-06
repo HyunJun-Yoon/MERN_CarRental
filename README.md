@@ -25,5 +25,4 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-Nest.js, Typescript, Apollo Client, MySQL, Tatilwind, GraphQL, Redux toolkit, reselect, useSelector
+Car rental website with React.js, Apollo GraphQL, Typescript, Tailwind, Responsive Design, Node.js, Express.js, Nest.js, TypeORM, MySQL, Redux toolkit
